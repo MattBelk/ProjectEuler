@@ -1,4 +1,4 @@
-# Summation of primes
+# Summation of primes (solution in ~800 ms)
 ## [Problem 10](https://projecteuler.net/problem=10)
 
 > The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
