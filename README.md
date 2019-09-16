@@ -1,4 +1,4 @@
-# Sum square difference
+# Sum square difference (solution in less than 1 ms)
 ## [Problem 6](https://projecteuler.net/problem=6)
 
 > The sum of the squares of the first ten natural numbers is,
